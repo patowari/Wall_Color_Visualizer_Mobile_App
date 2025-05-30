@@ -1,0 +1,6 @@
+
+kivy>=2.1.0
+opencv-python>=4.8.0
+numpy>=1.21.0
+plyer>=2.1.0
+Pillow>=9.0.0
